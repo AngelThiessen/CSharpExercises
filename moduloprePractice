@@ -1,0 +1,22 @@
+using System;
+
+namespace moduloPractice
+{
+    class Program
+    {
+        public static double moduloFormula(double a, double b, double c)
+        {
+            return (a % b % c);
+        }
+
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Please input three numbers");
+            double firstNum = Convert.ToDouble(Console.ReadLine());
+            double secondNum = Convert.ToDouble(Console.ReadLine());
+            double thirdNum = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine(moduloFormula(firstNum, secondNum, thirdNum));
+        }
+            
+    }
+}

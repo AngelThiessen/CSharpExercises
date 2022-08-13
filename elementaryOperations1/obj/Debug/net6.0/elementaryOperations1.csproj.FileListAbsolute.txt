@@ -1,0 +1,15 @@
+C:\Users\angel\CodingExercises\csExercises\elementaryoperations1\bin\Debug\net6.0\elementaryOperations1.exe
+C:\Users\angel\CodingExercises\csExercises\elementaryoperations1\bin\Debug\net6.0\elementaryOperations1.deps.json
+C:\Users\angel\CodingExercises\csExercises\elementaryoperations1\bin\Debug\net6.0\elementaryOperations1.runtimeconfig.json
+C:\Users\angel\CodingExercises\csExercises\elementaryoperations1\bin\Debug\net6.0\elementaryOperations1.dll
+C:\Users\angel\CodingExercises\csExercises\elementaryoperations1\bin\Debug\net6.0\elementaryOperations1.pdb
+C:\Users\angel\CodingExercises\csExercises\elementaryoperations1\obj\Debug\net6.0\elementaryOperations1.csproj.AssemblyReference.cache
+C:\Users\angel\CodingExercises\csExercises\elementaryoperations1\obj\Debug\net6.0\elementaryOperations1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\CodingExercises\csExercises\elementaryoperations1\obj\Debug\net6.0\elementaryOperations1.AssemblyInfoInputs.cache
+C:\Users\angel\CodingExercises\csExercises\elementaryoperations1\obj\Debug\net6.0\elementaryOperations1.AssemblyInfo.cs
+C:\Users\angel\CodingExercises\csExercises\elementaryoperations1\obj\Debug\net6.0\elementaryOperations1.csproj.CoreCompileInputs.cache
+C:\Users\angel\CodingExercises\csExercises\elementaryoperations1\obj\Debug\net6.0\elementaryOperations1.dll
+C:\Users\angel\CodingExercises\csExercises\elementaryoperations1\obj\Debug\net6.0\refint\elementaryOperations1.dll
+C:\Users\angel\CodingExercises\csExercises\elementaryoperations1\obj\Debug\net6.0\elementaryOperations1.pdb
+C:\Users\angel\CodingExercises\csExercises\elementaryoperations1\obj\Debug\net6.0\elementaryOperations1.genruntimeconfig.cache
+C:\Users\angel\CodingExercises\csExercises\elementaryoperations1\obj\Debug\net6.0\ref\elementaryOperations1.dll
